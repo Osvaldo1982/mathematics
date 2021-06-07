@@ -26,3 +26,6 @@ In this repository I will create and discuss some mathematical related material 
 
 # Mathematical/Computational Modeling
 * https://uppsala.instructure.com/courses/28112
+
+# Elementary Mathematics
+* https://www2.math.upenn.edu/~ghrist/BLUE.html#VOL1
