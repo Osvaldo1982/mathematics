@@ -14,4 +14,15 @@ In this repository I will create and discuss some mathematical related material 
 * https://www.youtube.com/user/atanibal
 * https://www.youtube.com/watch?v=8Rep4CerSQY
 * https://www.youtube.com/playlist?list=PLgzdggUFmFVwizk0hLxNkkykD1wiD7ZX1
-* https://sites.google.com/view/calculo-numerico-para-todos/home*
+* https://sites.google.com/view/calculo-numerico-para-todos/home
+* [Solving the Lorentz model using Runge Kutta 4th Order in Python without a package
+](https://stackoverflow.com/questions/53908604/solving-the-lorentz-model-using-runge-kutta-4th-order-in-python-without-a-packag)
+* https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent
+* https://press.princeton.edu/books/hardcover/9780691169927/data-analysis-for-scientists-and-engineers
+
+## Computational Mathematics
+* https://www.youtube.com/playlist?app=desktop&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+*
+
+# Mathematical/Computational Modeling
+* https://uppsala.instructure.com/courses/28112
