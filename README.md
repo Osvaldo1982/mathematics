@@ -1,8 +1,8 @@
-# mathematics
+# Mathematics
 
 In this repository I will create and discuss some mathematical related material with computational aspects.
 
-# Reference
+# References
 
 ## Differential Equations
 * https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations
@@ -24,8 +24,8 @@ In this repository I will create and discuss some mathematical related material 
 * https://www.youtube.com/playlist?app=desktop&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 *
 
-# Mathematical/Computational Modeling
+## Mathematical/Computational Modeling
 * https://uppsala.instructure.com/courses/28112
 
-# Elementary Mathematics
+## Elementary Mathematics
 * https://www2.math.upenn.edu/~ghrist/BLUE.html#VOL1
